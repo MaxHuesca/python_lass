@@ -4,7 +4,8 @@ Fecha: [dd/mm/yyyy]
 
 Participantes: 
 
-- [De Los Santos Huesca Ismael Maximiliano](ismadlsh@lcg.unam.mx) 
+- [De Los Santos Huesca Ismael Maximiliano](ismadlsh@lcg.unam.mx)
+- [Platas Renteral Addiel Antonio](addielpr@lcg.unam.mx)
 
 ## Descripción del Problema
 <!-- Puedes empezar con una introducción, luego la justificación y plantear el problema. -->
