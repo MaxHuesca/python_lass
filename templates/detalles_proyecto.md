@@ -1,14 +1,14 @@
-# [NOMBRE DEL PROYECTO]
+# [NOMBRE DEL PROYECTO/Clase 3]
 
 Fecha: [dd/mm/yyyy]
 
 Participantes: 
 
-- [nombre]  <email: > 
+- [De Los Santos Huesca Ismael Maximiliano](ismadlsh@lcg.unam.mx) 
 
 ## Descripción del Problema
 <!-- Puedes empezar con una introducción, luego la justificación y plantear el problema. -->
-
+Vamos a ver que chouw con el pull de github a mi git local 
 
 
 ## Especificación de Requisitos
