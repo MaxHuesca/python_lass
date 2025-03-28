@@ -10,4 +10,4 @@ bases="ATTTGGGC"
 complementos="TAAAGGGC" 
 
 for base, complemento in zip(bases, complementos): 
-    print(f"{base}:{complemento}")
+    print(f"{base}:{complemento}") 
